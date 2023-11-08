@@ -76,3 +76,21 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.centercontent{
+
+  justify-content: center;
+  text-align: center;
+}
+
+.portfolio art {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  justify-content: left;
+  text-align: right;
+}
+
+.portfolio {
+  width: 400px;
+  padding-left: 5px;
+  padding-right: 5px;
